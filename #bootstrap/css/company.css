@@ -1,0 +1,33 @@
+.comp-text {
+    font-size: 32px;
+    text-align: right;
+}
+
+.margin-top-150px {
+    margin-top: 150px;
+}
+.navigation2{
+    display: flex;
+   justify-content: end;
+   margin-top: 20px;
+   list-style-type: none;
+   margin-left: 700px;
+}
+
+.f-text {
+    position: absolute;
+    right: 0;
+    font-size: 20px;
+    color: #9A1212;
+    margin-right: 30px;
+}
+
+.select {
+    background-color: #9A1212;
+    transform: scale(1.3);
+    color: white;
+}
+
+.select a {
+    color: white;
+}

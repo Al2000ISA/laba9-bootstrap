@@ -1,0 +1,53 @@
+.hei100 {
+    height: 60vh;
+}
+.navigation2{
+    display: flex;
+   justify-content: end;
+   margin-top: 20px;
+   list-style-type: none;
+   margin-left: 700px;
+}
+.sheet-4 {
+    position: absolute;
+    left: 0;
+    top: 50%;
+}
+
+.rect-1 {
+    position: absolute;
+    width: 180px;
+    height: 295px;
+    background: #C4C4C4;
+    border-radius: 34px;
+}
+
+.pr1 {
+    background: url('../img/p-5.png');
+}
+
+.pr2 {
+    background: url('../img/p-3.png');
+}
+
+.pr3 {
+    background: url('../img/p-4.png');
+}
+
+.pr4 {
+    background: url('../img/p-2.png');
+}
+
+.pr5 {
+    background: url('../img/p-1.png');
+}
+
+.rect-2 {
+    position: relative;
+    background-size: cover;
+    background-position: center center;
+    height: 295px;
+    width: 180px;
+    border-radius: 45px;
+    margin-left: 24px;
+}
